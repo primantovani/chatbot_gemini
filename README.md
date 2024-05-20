@@ -21,9 +21,6 @@ while prompt != "fim":
   prompt = input("Esperando prompt: ")
 Use code with caution.
 Python
-💡 Notas
-Este é um programa básico e pode ser expandido com mais recursos.
-O desempenho do chatbot dependerá da biblioteca ou API utilizada.
-Certifique-se de substituir chat pelo seu próprio objeto de chatbot.
+
 🎉 Agradecimentos
 Um agradecimento especial ao Google Gemini, Alura e FIAP por fornecerem as ferramentas e o conhecimento para tornar este projeto possível!
